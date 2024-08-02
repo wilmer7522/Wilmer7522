@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 > [!WARNING]
 > Esto es una Alerta
+
+> [!TIP]
+> Esto es un Tip 
