@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 > [!NOTE]
 > Esto es una nota
 >
->  [!WARNING]
+> [!WARNING]
 > Esto es una Alerta
