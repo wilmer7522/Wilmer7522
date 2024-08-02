@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  >[!NOTE]
-  >Esto es una nota
+
+
+  > [!NOTE]
+  > Esto es una nota
