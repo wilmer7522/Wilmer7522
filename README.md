@@ -1,6 +1,6 @@
 ![PERFIL](img/Wilmer%20Rojas.png)
 
-## ABout me `#000000`
+## ABout me:
 
 - 🔭 I’m 40 yeas old
 - 🌱 I’m currently learning JavaScript, Java...
