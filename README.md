@@ -1,5 +1,6 @@
-![PERFIL](img/Wilmer%20Rojas.png)
-
+ <p align=center> 
+  <img src="img/Wilmer%20Rojas.png" </img>
+ </p>
 ## ABout me:
 
 - 🔭 I’m 40 yeas old
@@ -29,3 +30,4 @@
 > [!CAUTION]
 > Precaucion 
  -->
+ 
