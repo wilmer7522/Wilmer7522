@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 > Esto es una Alerta
 
 > [!TIP]
-> Esto es un Tip 
+> Esto es un Tip
+
+> [!CAUTION]
+> Precaucion 
