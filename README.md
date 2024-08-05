@@ -1,5 +1,5 @@
  <p align=center> 
-  <img src="img/Wilmer%20Rojas.png" width=1000 height=350> </img>
+  <img src="img/Wilmer%20Rojas.png" width=1000 height=350 style=> </img>
  </p>
 <p align=center>
   <img src="https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet&abbreviated=true"> </img>
