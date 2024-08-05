@@ -1,8 +1,10 @@
  <p align=center> 
-  <img src="img/Wilmer%20Rojas.png" </img>
+  <img src="img/Wilmer%20Rojas.png" width=1000 height=350> </img>
  </p>
+<p align=center>
+  <img src="https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet&abbreviated=true"> </img>
+</p>
 
- ![](https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet&abbreviated=true)
 ## ABout me:
 
 - 🔭 I’m 40 yeas old
