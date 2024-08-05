@@ -1,6 +1,8 @@
  <p align=center> 
   <img src="img/Wilmer%20Rojas.png" </img>
  </p>
+
+ ![](https://komarev.com/ghpvc/?username=wilmer7522&style=flat-square)
 ## ABout me:
 
 - 🔭 I’m 40 yeas old
