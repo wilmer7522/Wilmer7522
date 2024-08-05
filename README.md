@@ -17,7 +17,7 @@
 - 📫 How to reach me:
   |Instagram|Facebook|Discord|
   |--|--|--|
-  |<a href="https://instagram.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>|<a href="https://facebook.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/b1ecb813-a6c6-462f-8974-589640a3d428/></a>|<a href="https://discord.com/[wilmer752](https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7)" target="blank"><img src=https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7/></a>|
+  |<a href="https://instagram.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>|<a href="https://facebook.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/b1ecb813-a6c6-462f-8974-589640a3d428/></a>|<a href="https://discord.gg/wilmer752(https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7)" target="blank"><img src=https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7/></a>|
 
 
 
