@@ -17,7 +17,10 @@
 - 📫 How to reach me:
   |Instagram|
   |--|
-  ![image](https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae)
+  <p>
+    <a href="https://twitter.com/wilmer752"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>
+  </p>
+ 
 
 
 
