@@ -10,12 +10,13 @@
 - 💬 Ask me about
 
   
-  |PYTHON|HTML|CSS|
+  |<p align="center">PYTHON</p>|<p align="center">HTML</p>|<p align="center">CSS</p>|
   |--|--|--|
   |![image](https://github.com/user-attachments/assets/88d87f4e-8ee6-4119-ba36-148262c2c235)|![image](https://github.com/user-attachments/assets/e05ef67b-0866-4043-b2c8-93255915ddee)|![image](https://github.com/user-attachments/assets/fc2f7934-9a32-4fad-a55b-65bb8df3666c)|
   
 - 📫 How to reach me:
-  |Instagram|Facebook|Discord|
+  
+  |<p align="center">Instagram</p>|<p align="center">Facebook</p>|<p align="center">Discord</p>|
   |--|--|--|
   |<a href="https://instagram.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>|<a href="https://facebook.com/wilmer752" target="blank"><img src=https://github.com/user-attachments/assets/b1ecb813-a6c6-462f-8974-589640a3d428/></a>|<a href="https://discord.gg/wilmer752#6116" target="blank"><img src=https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7/></a>|
 
