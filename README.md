@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet&abbreviated=true"> </img>
 </p>
 
-## ABout me:
+## About me:
 
  🔭 I’m 40 yeas old
  🌱 I’m currently learning JavaScript, Java...
