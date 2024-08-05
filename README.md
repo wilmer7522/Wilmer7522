@@ -6,7 +6,7 @@
 - 🔭 I’m 40 yeas old
 - 🌱 I’m currently learning JavaScript, Java...
 - 🤔 I’m looking for help with Web Desing
-- 💬 Ask me about Html, CSS
+- 💬 Ask me about Html, CSS and Python Basic
 - 📫 How to reach me: IG Wilmer752
 
 
