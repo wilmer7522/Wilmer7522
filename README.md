@@ -22,6 +22,14 @@
 
 
 
+# Stats
+![wilmer7522's Stats](https://github-readme-stats.vercel.app/api?username=wilmer7522&theme=onedark&show_icons=true&hide_border=false&count_private=false)
+
+# Contribuciones
+![wilmer7522's Streak](https://github-readme-streak-stats.herokuapp.com/?user=wilmer7522&theme=onedark&hide_border=false)
+
+# Lenguajes
+![wilmer7522's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmer7522&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 
