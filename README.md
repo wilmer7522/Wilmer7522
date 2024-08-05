@@ -1,14 +1,19 @@
-![PERFIL]()
+![PERFIL](img/Wilmer%20Rojas.png)
 
-Here are some ideas to get you started:
+## ABout me `#000000`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Html, CSS.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m 40 yeas old
+- 🌱 I’m currently learning JavaScript, Java...
+- 🤔 I’m looking for help with Web Desing
+- 💬 Ask me about Html, CSS
+- 📫 How to reach me: IG Wilmer752
+
+
+<!--
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... >
+
 
 
 
@@ -23,3 +28,4 @@ Here are some ideas to get you started:
 
 > [!CAUTION]
 > Precaucion 
+ -->
