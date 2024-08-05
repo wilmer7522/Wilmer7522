@@ -2,7 +2,7 @@
   <img src="img/Wilmer%20Rojas.png" </img>
  </p>
 
- ![](https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet)
+ ![](https://komarev.com/ghpvc/?username=wilmer7522&style=plastic&color=blueviolet&abbreviated=true)
 ## ABout me:
 
 - 🔭 I’m 40 yeas old
