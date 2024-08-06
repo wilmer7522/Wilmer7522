@@ -42,6 +42,7 @@
 </div>
 
 <!--
+https://gitmoji.dev/
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... >
