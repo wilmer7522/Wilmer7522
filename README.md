@@ -29,7 +29,7 @@
   
   |<p align="center">Instagram</p>|<p align="center">Facebook</p>|<p align="center">Discord</p>|<p align="center">LinkedIn</p>|
   |--|--|--|--|
-  |<a href="https://instagram.com/wilmer752" target="_blank"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>|<a href="https://facebook.com/wilmer.rojasguitarrista" target="_blank"><img src=https://github.com/user-attachments/assets/757ac4ec-370c-469e-9889-7d196c0010a6/></a>|<a href="https://discord.gg/wilmer752#6116" target="_blank"><img src=https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7/></a>|<a href="www.linkedin.com/in/wilmer-rojas-94a710338" target="_blank"><img src=https://github.com/user-attachments/assets/662458f6-d21a-41b8-bc4a-1fd6b6bbb604 width="160" /></a>
+  |<a href="https://instagram.com/wilmer752" target="_blank"><img src=https://github.com/user-attachments/assets/2d72ffad-97be-48d2-a767-72f56caf3bae /></a>|<a href="https://facebook.com/wilmer.rojasguitarrista" target="_blank"><img src=https://github.com/user-attachments/assets/757ac4ec-370c-469e-9889-7d196c0010a6/></a>|<a href="https://discord.gg/wilmer752#6116" target="_blank"><img src=https://github.com/user-attachments/assets/e053f047-df85-42da-9fd8-b86fe7a359d7/></a>|<a href="www.linkedin.com/wilmer-rojas-94a710338" target="_blank"><img src=https://github.com/user-attachments/assets/662458f6-d21a-41b8-bc4a-1fd6b6bbb604 width="160" /></a>
 
 
 
